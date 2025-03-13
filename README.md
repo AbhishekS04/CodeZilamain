@@ -27,7 +27,7 @@ Follow these steps to run CodeZila locally:
 git clone https://github.com/AbhishekS04/CodeZila.git
 
 # Navigate to the project
-dd CodeZila
+cd CodeZila
 
 # Install dependencies
 npm install
